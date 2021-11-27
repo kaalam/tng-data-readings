@@ -19,3 +19,10 @@ your own version of the dataset. These images are maintained by kaalam.ai.
 
 This is automatically pulled, decompressed and loaded into Jazz persistence by the Jazz TNG series docker images. Refer to the
 The Tangle [reference](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html) for details.
+
+## Content
+
+| Dataset       | Original source                                            | License                                                                            |
+| ------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Gutenberg     | https://www.gutenberg.org/                                 | [The Project Gutenberg License](https://www.gutenberg.org/policy/license.html)     |
+| OpenSubtitles | https://opus.nlpl.eu/cwb/OpenSubtitles2018/frames-cqp.html | [Link http://www.opensubtitles.org/](https://opus.nlpl.eu/OpenSubtitles-v2018.php) |
